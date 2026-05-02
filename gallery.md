@@ -1,6 +1,22 @@
 ---
-description: Images related to the TARDIS.
+description: Images related to the Tardis.
 icon: image
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Gallery
