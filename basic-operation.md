@@ -145,7 +145,7 @@ Check out this related section on how to make [Rematerialization and Demateriali
 
 ### Materialization
 
-Please note that following this sequence is not required if you have enabled the AutoLand feature. The AutoLand feature is further explained in [this section.](basic-operation.md#autoland)
+Please note that following this sequence is not required if you have enabled the Auto-Land feature. The Auto-Land feature is further explained in [this section.](basic-operation.md#autoland)
 
 1. Pull the **L-Stabilizer** back up.
 2. Push the **Green Retro Lever** back up, followed by the **Yellow Retro Lever.**
@@ -154,7 +154,26 @@ Please note that following this sequence is not required if you have enabled the
 
 <div><figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure></div>
 
-### AutoLand
+### Auto-Land
+
+The Auto-Land feature will, as the name states, **automatically land the Tardis** and **execute the Materialization sequence** without the necessity of doing anything. The toggle **can be enabled at any point** (before, during or after a flight)￼.
+
+1. Flick the **Auto-Land Switch.**
+
+<figure><img src=".gitbook/assets/3.png" alt=""><figcaption><p>Auto-Land</p></figcaption></figure>
+
+The Auto-Land feature **can be disabled** at any point as well by simply **flicking the switch again.**
+
+## Deinitialization
+
+This sequence will **power down** the Tardis.
+
+1. Flick the **Alpha H** switch, followed by the **Alpha C** switch.
+2. Flip the **Stott Switch 11.**
+3. Pull down the **R-Stabilizer.**
+4. Pull the **Power Lever.**
+
+<div><figure><img src=".gitbook/assets/2.png" alt=""><figcaption><p>Alpha H and C, Stott Switch 11, R-Stabilizer</p></figcaption></figure> <figure><img src=".gitbook/assets/3.png" alt=""><figcaption><p>Power Lever</p></figcaption></figure></div>
 
 [^1]: This is not fake, be careful and either mute your game or take off your headphones. The sound is _**very**_ loud.
 
