@@ -27,7 +27,7 @@ layout:
 
 ### Introduction
 
-These levers serve as brakes. Enabling any of the two will result in a **faster process** of either **Dematerialization** (left lever) or **Materialization** (right lever).
+These levers serve as brakes. Enabling any of the two will result in a **faster process** of either **Dematerialization** (left lever) or **Materialization** (right lever). Enabling both is recommended, as it will speed up the process of Dematerialization and Materialization.
 
 {% hint style="info" %}
 You can **invert the position** of both levers in one go by [**pushing any of the two into the hinge,**](#user-content-fn-1)[^1] as one would do for a button.

@@ -106,6 +106,8 @@ The table above shows what travel mode each Stygian Lever will enable you to use
 
 Once you have selected a travel mode you wish to use, **pull the lever belonging to that mode** and [**split the Main Lever**](#user-content-fn-2)[^2]. When the destination year you wished to travel to shows up on the display, push the Main Lever back into its original position.
 
+Otherwise, if you are **already in flight**, you may simply pull **any of the Stygian Levers** to begin time traveling.
+
 <figure><img src=".gitbook/assets/3.png" alt=""><figcaption><p>Main Lever</p></figcaption></figure>
 
 ### Time Dial Time Travel
@@ -118,6 +120,8 @@ Turning the Time Dial [**towards the right**](#user-content-fn-3)[^3] will **inc
 
 Once you have selected you desired year, you must **Dematerialize and Materialize** to travel to the selected year. This is explained in the [following section.](basic-operation.md#dematerialization-and-rematerialization)
 
+Otherwise, if you are **already in flight**, you may simply **select your year of destination** and land.
+
 ## Materialization and Dematerialization
 
 ### Introduction
@@ -128,14 +132,29 @@ Dematerialization is the process of **disappearing from your current location an
 
 Initializing a Dematerialization sequence requires following the sequence presented below.
 
-1. Pull down the **R-Stabilizer.**
+1. Pull down the **L-Stabilizer.**
 2. Flip **Stott Switches 1, 3, 4, 6 and 10 in order.**
 3. Pull down the **Yellow Retro Lever**, followed by the **Green Retro Lever.**
 4. Pull the **Main Lever** (without splitting it).
 
 This will initiate the Dematerialization process.
 
-Check out this related section on how to make Rematerialization and Dematerialization faster.
+<div><figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure></div>
+
+Check out this related section on how to make [Rematerialization and Dematerialization faster.](advanced-operation.md#introduction)
+
+### Materialization
+
+Please note that following this sequence is not required if you have enabled the AutoLand feature. The AutoLand feature is further explained in [this section.](basic-operation.md#autoland)
+
+1. Pull the **L-Stabilizer** back up.
+2. Push the **Green Retro Lever** back up, followed by the **Yellow Retro Lever.**
+3. Disable **Stott Switches 10, 6, 4, 3 and 1 in order.**
+4. Push the **Main Lever** back.
+
+<div><figure><img src=".gitbook/assets/2.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure></div>
+
+### AutoLand
 
 [^1]: This is not fake, be careful and either mute your game or take off your headphones. The sound is _**very**_ loud.
 
