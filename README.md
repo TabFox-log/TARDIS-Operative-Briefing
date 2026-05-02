@@ -29,6 +29,8 @@ The Tardis is a complex entity, but it **can be operated by a one-man crew**. Re
 This Operative Briefing will guide you, the Tardis Operative assigned to this Type 40, through its **essential commands** as well as some **other functions** you might find useful during your time as an Operative.
 
 We wish you good luck in the operation of your Tardis and hope you enjoy your time as an Operative.
+
+If you find text underlined [**as such**](#user-content-fn-1)[^1], hover over it.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -39,3 +41,6 @@ Switch and button **orders must be followed** to the tee. Failing to do so can c
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Basic Operation</td><td><a href="https://images.unsplash.com/photo-1565377252682-fa2f81ae9fc6?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxzd2l0Y2hlcyUyMGJ1dHRvbnN8ZW58MHx8fHwxNzc3NjcwOTM0fDA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1565377252682-fa2f81ae9fc6?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxzd2l0Y2hlcyUyMGJ1dHRvbnN8ZW58MHx8fHwxNzc3NjcwOTM0fDA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td><td><a href="basic-operation.md">basic-operation.md</a></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
+
+
+[^1]: This will explain stuff that might apply IRL differently from how it is written.
