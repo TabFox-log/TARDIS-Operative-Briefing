@@ -35,6 +35,10 @@ You can **invert the position** of both levers in one go by [**pushing any of th
 
 <figure><img src=".gitbook/assets/1.png" alt=""><figcaption><p>Dematerialize Haltie, Materialize Haltie</p></figcaption></figure>
 
+## Tardis Charging
 
+### TSC Request
+
+The Tardis Stop Charge Request, also known as TSC Request
 
 [^1]: Right-click any of the two levers.
